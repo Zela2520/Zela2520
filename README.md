@@ -1,7 +1,7 @@
 <img src='https://rishavanand.github.io/static/images/greetings.gif' alt='greeting'>
 
 <h1>HI, I'm Daniil Zelenko</h1>
-<p>I’m beginner frontend developer</p>
+<p>frontend developer</p>
 
 <p> <img src="https://komarev.com/ghpvc/?username=Zela2520&label=Profile%20views&color=0e75b6&style=flat" alt="Zela2520" /> </p>
 
